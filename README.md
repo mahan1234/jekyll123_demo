@@ -20,4 +20,6 @@
 
 2016.12.17 【v1.0.0.1_base】 绑定域名 www.mahancheng.xyz 
 
-**2016.12.24 【v1.0.1.0_base】 编辑github托管库 readme.md文件 添加栏目：版本号**
+2016.12.24 【v1.0.1.0_base】 编辑github托管库 readme.md文件 添加栏目：版本号**
+
+**2016.12.26 【v1.0.2.0_base】 添加cncc流量统计
